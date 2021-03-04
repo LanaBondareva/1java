@@ -15,6 +15,6 @@
 * [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 * [Сервис генерирования валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
-#№ Тестирование производилось в следующем окружении:
+## Тестирование производилось в следующем окружении:
 * Window ОС
 * 11 Java
